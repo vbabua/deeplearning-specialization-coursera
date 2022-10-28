@@ -5,4 +5,4 @@ This repository contains all the solved assignment of Coursera's [Deep Learning 
 
 ### **Disclaimer**
 
-The solutions uploaded in this repository are only for reference when you got stuck somewhere. Please do not copy paste the code while doing the assignemnts of this specialization.
+The solutions uploaded in this repository are only for reference when you get stuck somewhere. Please do not copy paste the code while doing the assignemnts of this specialization.
